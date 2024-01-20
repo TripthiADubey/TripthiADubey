@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TripthiADubey
-- 👀 I’m interested in being a Developer and data analyst
-- 🌱 I’m currently learning Data Science, Cryptography and Java
+- 👀 I’m interested in being a Developer
+- 🌱 I’m currently learning Cybersecurity and Modern Application Development 
 - 📫 You can reach out to me via my Mail address i.e., tripthik3@gmail.com
 
 <!---
